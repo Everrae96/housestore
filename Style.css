@@ -1,0 +1,128 @@
+@charset "UTF-8";
+.logo  {
+}
+.jumbotron.text-center.hero .lead .btn.btn-primary.btn-lg.button {
+	color: black;
+}
+.jumbotron.text-center.hero .display-4 {
+	color: white;
+	font-style: italic;
+}
+.jumbotron.text-center .display-4 {
+	font-family: Georgia;
+	font-style: italic;
+	color: white;
+}
+.jumbotron.text-center {
+	padding-bottom: 280px;
+}
+.jumbotron.text-center .lead {
+	font-family: Georgia;
+	color: white;
+	text-align: center;
+	padding-right: 402px;
+	padding-left: 461px;
+}
+.jumbotron.text-center p .btn.btn-primary.btn-lg.button {
+	color: black;
+}
+.jumbotron.text-center .lead .btn.btn-primary.btn-lg.button {
+	color: black;
+}
+.row .col-xl-4 p {
+}
+.row .col-xl-4 img {
+	border-radius: 9000px;
+}
+.row .col-xl-4 h2 {
+	text-align: center;
+	font-family: Georgia;
+}
+.col-1  {
+	color: red;
+}
+.row .col-xl-4.text-center p {
+	padding-left: 57px;
+	padding-right: 70px;
+}
+.row .col-xl-4 img {
+	border-radius: 9000px;
+}
+.row .col-xl-4.text-center h2 {
+}
+.jumbotron.text-center.hero p {
+	color: white;
+	padding-right: 523px;
+	padding-left: 457px;
+}
+nav    {
+	background-color: #f5ac2f;
+}
+.button {
+	background-color: #f5ac2f;
+}
+.hero {
+	background-image: url(top-hero.jpg);
+	background-repeat: no-repeat;
+	padding-top: 137px;
+	background-size: cover;
+	padding-bottom: 301px;
+}
+.footer {
+	background-image: url(footer.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+h1 {
+	font-family: Georgia;
+}
+p {
+	font-family: Georgia;
+}
+a {
+	font-family: Georgia;
+	color: #000000;
+}
+.text-red {
+	font-family: Georgia;
+	color: red;
+	padding-top: 22px;
+	font-style: italic;
+}
+.col-xl-12 {
+	text-align: center;
+	font-family: Georgia;
+}
+.col-xl-12 h2 {
+	font-style: italic;
+}
+.col-xl-12 p {
+	text-align: center;
+	padding-right: 210px;
+	padding-left: 265px;
+}
+.text-green {
+	color: green;
+	font-family: Georgia;
+	padding-top: 22px;
+	padding-left: 0px;
+	font-style: italic;
+}
+.row .col-xl-4 p {
+	text-align: center;
+	padding-left: 56px;
+	padding-right: 32px;
+}
+.row .col-xl-4 img {
+	border-radius: 9000px;
+}
+.row .col-xl-4.text-center p {
+}
+.text-blue {
+	color: blue;
+	font-family: Georgia;
+	padding-top: 22px;
+	font-style: italic;
+}
